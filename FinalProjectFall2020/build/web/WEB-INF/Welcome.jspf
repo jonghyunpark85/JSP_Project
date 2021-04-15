@@ -1,0 +1,8 @@
+<div>
+    <p>
+        Welcome, ${sessionScope.username}
+    </p>
+    <p>
+        <a href="UserServices?logout=true">Logout</a>
+    </p>
+</div>
